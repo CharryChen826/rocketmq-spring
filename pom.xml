@@ -221,5 +221,7 @@
         <!-- Note: The samples need to mvn compiple in its own directory
                 <module>rocketmq-spring-boot-samples</module>
         -->
+        <module>rocketmq-spring-boot-samples</module>
+        <module>rocketmq-v5-client-spring-boot-samples</module>
     </modules>
 </project>
